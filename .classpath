@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/biff-0.4.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/ejb-api-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/javafx-controls-20-ea+9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/javax.faces-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/jboss-msc-1.5.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/log4j-1.2.17-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/log4j-slf4j-impl-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/mail-1.5.0-b01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Josevan/Downloads/api/SparseBitSet-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ejb-api-3.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javafx-controls-20-ea+9.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javax.faces-api-2.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jboss-msc-1.5.0.CR1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j-1.2.17-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mail-1.5.0-b01.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
